@@ -1,5 +1,5 @@
 {
-    "botName": "SMH BOT",
+    "botName": "AditV4 BOT",
     "owner": [
         "6285213510153@s.whatsapp.net"
     ],
@@ -9,7 +9,7 @@
     "user_db": "users-db.json",
     "chat_store": "baileys-store.json",
     "timezone": "Asia/Jakarta",
-    "footer": "Kaguya PublicBot • FaizBastomi",
+    "footer": "AditV4 BOT • Adit",
     "tier": {
         "drakath": 200,
         "nulgath": 500,
