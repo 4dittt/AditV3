@@ -42,9 +42,9 @@ module.exports = {
 			let str =
 				`Hello, ${pushName === undefined ? sender.split("@")[0] : pushName}\n*Here My Command List*\n\n` +
 				`╭──────❨ *${botName}* ❩\n╰─────────\n` +
-				"╭──────❨ *DONATE* ❩\n├ Ko-fi: https://ko-fi.com/faizbastomi\n├ saweria: https://saweria.co/faizbastomi\n" +
-				"├ trakteer: https://trakteer.id/faizbastomi\n╰─────────\n"+
-				"╭──────❨ *SOURCE CODE* ❩\n├ https://github.com/FaizBastomi/wbot\n╰────────────\n\n";
+				"╭──────❨ *INFO* ❩\n├ Gopay: 085213510153\n├ Dana: 085651473510\n" +
+				"├ Instagram: https://m.instagram.com/@_adittt4u\n╰─────────\n"+
+				"╭──────❨ *SOURCE CODE* ❩\n├ https://github.com/4dittt/AditV3\n╰────────────\n\n";
 			const keys = Object.keys(category);
 			for (const key of keys) {
 				str += `╭──────❨ *${key.toUpperCase()}* ❩\n\`\`\`${category[key]
